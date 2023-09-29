@@ -11,6 +11,23 @@
     },
     "projects": [
       {
+        "title": "Monocular Depth Estimation",
+        "startDate": "2023",
+        "description": "A computer vision project which aims to predict the depth maps of indoor and outdoor areas using 2D images. Awarded the SRI Computational Data Science Award, presented by Singapore Realtors Inc (SRI) and SUTD for the best project out of 13 teams.",
+        "images": [
+          "https://scontent.fsin3-1.fna.fbcdn.net/v/t39.30808-6/346315222_3060808950895266_4424650503650448548_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=49d041&_nc_ohc=MSMG8tz9Y3MAX9H8dpy&_nc_ht=scontent.fsin3-1.fna&oh=00_AfDJp4kDokOjLwQTKXGL_B2AXAnv3xC-K8IzTyeHgH15Tg&oe=651CBE26"
+        ],
+        "url": [
+          "https://github.com/LHJJosh/CDS_Depth_Estimation"
+        ],
+        "technologies": [
+          {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }
+        ]
+      },
+      {
         "title": "Ascenda Booking Website",
         "startDate": "2022",
         "description": "A hotel search and booking web application with Ascenda made with React and Django.",
@@ -32,7 +49,7 @@
       {
         "title": "Hourglass",
         "startDate": "2022",
-        "description": "Hourglass is a focus app which aims to help individuals to manage their time better by limiting the amount of time they spend on such apps.",
+        "description": "Hourglass is a focus android app which aims to help individuals to manage their time better by limiting the amount of time they spend on such apps.",
         "images": [
           "https://github.com/LHJJosh/HourGlass/raw/main/images/open_whitelisted_apps.png?raw=true",
           "https://www.dropbox.com/s/g6svgaokxd14qqe/slice1.png?raw=1"
