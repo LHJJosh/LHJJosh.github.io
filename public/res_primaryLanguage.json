@@ -1,0 +1,126 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm Joshua Lim, an aspiring computer scientist with a passion for tinkering with data and crafting programs that bring it to life. I love delving into new challenges, constantly expanding my knowledge. When I'm not coding or exploring algorithms, you can often find me engrossed in a good book, experimenting with 3D printing, or picking up new languages.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Monocular Depth Estimation",
+        "startDate": "2023",
+        "description": "A computer vision project which aims to predict the depth maps of indoor and outdoor areas using 2D images. Awarded the SRI Computational Data Science Award, presented by Singapore Realtors Inc (SRI) and SUTD for the best project out of 13 teams.",
+        "images": [
+          "https://scontent.fsin3-1.fna.fbcdn.net/v/t39.30808-6/346315222_3060808950895266_4424650503650448548_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=49d041&_nc_ohc=MSMG8tz9Y3MAX9H8dpy&_nc_ht=scontent.fsin3-1.fna&oh=00_AfDJp4kDokOjLwQTKXGL_B2AXAnv3xC-K8IzTyeHgH15Tg&oe=651CBE26"
+        ],
+        "url": [
+          "https://github.com/LHJJosh/CDS_Depth_Estimation"
+        ],
+        "technologies": [
+          {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }
+        ]
+      },
+      {
+        "title": "Ascenda Booking Website",
+        "startDate": "2022",
+        "description": "A hotel search and booking web application with Ascenda made with React and Django.",
+        "images": [
+          "https://github.com/LHJJosh/50.003_ESC_Project/raw/main/images/ss_hotelSearch.png"
+        ],
+        "url": "http://asd.courses.sutd.edu.sg/dti-teams/3-007-design-projects/cohort-10-design-projects/cohort-10-team-01/project-part-4/",
+        "technologies": [
+          {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+        ]
+      },
+      {
+        "title": "Hourglass",
+        "startDate": "2022",
+        "description": "Hourglass is a focus android app which aims to help individuals to manage their time better by limiting the amount of time they spend on such apps.",
+        "images": [
+          "https://github.com/LHJJosh/HourGlass/raw/main/images/open_whitelisted_apps.png?raw=true",
+          "https://www.dropbox.com/s/g6svgaokxd14qqe/slice1.png?raw=1"
+        ],
+        "url": "https://istd.sutd.edu.sg/term4-design-exhibition/50001/hourglass",
+        "technologies": [
+          {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        }
+        ]
+      },
+      {
+        "title": "The Ruche",
+        "startDate": "2021",
+        "description": "A public bench which encourages safe intergenerational interaction while being aesthetically pleasing. Designed and created using Fusion360, aiming to increase social distancing during COVID-19 while still enabling the fostering of social connections.",
+        "images": [
+          "https://i.imgur.com/NXlG3tr.jpg",
+          "https://i.imgur.com/kh20PIs.png"
+        ],
+        "url": "http://asd.courses.sutd.edu.sg/dti-teams/3-007-design-projects/cohort-10-design-projects/cohort-10-team-01/project-part-4/",
+        "technologies": [
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "PreciX",
+        "title": "Software Developer",
+        "years": "Dec 2022 - Present",
+        "mainTech": [
+          "Amazon Web Services (AWS)"
+        ],
+        "technologies": [
+          "AWS",
+          "Python",
+          "React JS",
+          "Django",
+          "Linux"
+        ]
+      },
+      {
+        "company": "Advisors Alliance Group",
+        "title": "AI Applications Developer",
+        "years": "May 2023 - Aug 2023",
+        "mainTech": [
+          "OpenAI API"
+        ],
+        "technologies": [
+          "OpenAI API",
+          "LangChain",
+          "StreamLit",
+          "Python",
+          "LLMs",
+          "HayStack"
+        ]
+      },
+      {
+        "company": "PreciX",
+        "title": "Technical Intern (Algorithms)",
+        "years": "Aug 2022 - Dec 2022",
+        "mainTech": [
+          "Power BI"
+        ],
+        "technologies": [
+          "Power BI",
+          "Python",
+          "React JS",
+          "Django",
+          "Node"
+        ]
+      }
+    ]
+  }
