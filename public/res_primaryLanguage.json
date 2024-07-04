@@ -76,9 +76,16 @@
   ],
   "experience": [
     {
+      "company": "ST Engineering",
+      "title": "Data Engineer",
+      "years": "Jun 2024 - Present",
+      "mainTech": [],
+      "technologies": []
+    },
+    {
       "company": "PreciX",
       "title": "Software Developer",
-      "years": "Dec 2022 - Present",
+      "years": "Dec 2022 - Dec 2023",
       "mainTech": [
         "Amazon Web Services (AWS)"
       ],
